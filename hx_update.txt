@@ -1,8 +1,7 @@
 # 译文表更新源：一行一个网址，# 开头是注释。
 # 工具会按顺序尝试，第一个能下到的就用。
-# 换成你自己的仓库地址后，把下面几行替换掉即可（不用重编工具）。
 
-https://raw.githubusercontent.com/你的用户名/仓库名/main/hx_zh.tsv
-https://ghproxy.net/https://raw.githubusercontent.com/你的用户名/仓库名/main/hx_zh.tsv
-https://gh-proxy.com/https://raw.githubusercontent.com/你的用户名/仓库名/main/hx_zh.tsv
-https://raw.gitmirror.com/你的用户名/仓库名/main/hx_zh.tsv
+https://raw.githubusercontent.com/a776058959/BOTN-zh/main/hx_zh.tsv
+https://ghproxy.net/https://raw.githubusercontent.com/a776058959/BOTN-zh/main/hx_zh.tsv
+https://gh-proxy.com/https://raw.githubusercontent.com/a776058959/BOTN-zh/main/hx_zh.tsv
+https://raw.gitmirror.com/a776058959/BOTN-zh/main/hx_zh.tsv
