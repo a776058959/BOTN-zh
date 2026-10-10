@@ -1,0 +1,4 @@
+*.tsv text eol=lf
+*.exe binary
+*.md text eol=lf
+*.txt text eol=lf
